@@ -9,9 +9,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <div className="font-poppins font-bold text-2xl">
-              <span className="text-india-saffron">India</span>
+              <span className="text-india-saffron">SmartCity</span>
               <span className="text-white">Tour</span>
-              <span className="text-india-green">Scribe</span>
+              <span className="text-india-green">Guide</span>
             </div>
             <p className="text-gray-400 text-sm">
               Personalized tour planning for exploring the incredible diversity and beauty of India.
@@ -59,15 +59,15 @@ const Footer = () => {
           <div>
             <h2 className="text-lg font-semibold mb-4">Contact Us</h2>
             <ul className="space-y-2 text-gray-400">
-              <li>Email: info@indiatourscribe.com</li>
-              <li>Phone: +91 98765 43210</li>
-              <li>Address: Tourism House, Connaught Place, New Delhi, India</li>
+              <li>Email: info@SmartCityTourGuide.com</li>
+              <li>Phone: +91 9881912628</li>
+              <li>Address: Pccoe, Pune, India</li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-6 text-center text-gray-400 text-sm">
-          <p>&copy; 2023 IndiaTourScribe. All rights reserved.</p>
+          <p>&copy; 2025 SmartCityTourGuide. All rights reserved.</p>
         </div>
       </div>
     </footer>

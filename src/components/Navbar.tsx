@@ -9,9 +9,9 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-2">
             <div className="font-poppins font-bold text-2xl text-india-orange">
-              <span className="text-india-saffron">India</span>
+              <span className="text-india-saffron">SmartCity</span>
               <span className="text-india-blue">Tour</span>
-              <span className="text-india-green">Scribe</span>
+              <span className="text-india-green">Guide</span>
             </div>
           </Link>
           
